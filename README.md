@@ -2,13 +2,13 @@
 
 ### Kathryn Chan · Singapore
 
-BSc Computer Science, First Class Honours (ML & AI) — University of London<br>
-MSc Accounting (Data & Analytics) — Singapore Management University
+MSc Accounting (Data & Analytics) — Singapore Management University<br>
+BSc Computer Science, First Class Honours (ML & AI) — University of London
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=39D353&width=460&height=40&lines=ai+qa+%C2%B7+data+analytics+%C2%B7+python;i+build+ml+projects%2C+then+test+them" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=1A7F37&width=460&height=40&lines=ai+qa+%C2%B7+data+analytics+%C2%B7+python;i+build+ml+projects%2C+then+test+them" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=1A7F37&width=460&height=40&lines=ai+qa+%C2%B7+data+analytics+%C2%B7+python;i+build+ml+projects%2C+then+test+them" alt="ai qa · data analytics · python" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1000&color=39D353&width=720&height=40&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1000&color=1A7F37&width=720&height=40&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1000&color=1A7F37&width=720&height=40&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" alt="ai qa engineer · data analytics · prompt engineering · building efficiency with ai · the human-in-the-loop · growth is never finite" />
 </picture>
 
 <p>
@@ -20,14 +20,14 @@ MSc Accounting (Data & Analytics) — Singapore Management University
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/terminal-card-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/terminal-card-light.svg" />
-  <img src="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/terminal-card-light.svg" width="100%" alt="whoami: kathryn chan, ai qa, data analytics, python. Currently turning coursework into tested, documented projects." />
+  <img src="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/terminal-card-light.svg" width="100%" alt="whoami: kathryn chan, ai qa engineer, singapore" />
 </picture>
 
 ```console
 $ cat now.txt
-🔭  turning coursework projects into documented, tested repositories
-🧪  ask me about model evaluation, unit testing and forecasting
-🌏  based in singapore
+🧪  ai qa engineer — tuning the ai skills my qa and ux teams work with
+🤖  building with claude: automations, agent workflows, and this page
+🎯  next: projects of my own, past the coursework below
 📫  linkedin.com/in/kathryn-chan-hui · sbgkathryn@gmail.com
 ```
 
