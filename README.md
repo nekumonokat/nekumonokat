@@ -1,4 +1,8 @@
-<img align="right" width="190" src="./assets/photo-rounded.png" alt="Kathryn Chan" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/spider-lily-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/spider-lily-light.png" />
+  <img align="right" width="150" src="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/spider-lily-light.png" alt="Red spider lilies and a butterfly" />
+</picture>
 
 ### Kathryn Chan · Singapore
 
@@ -6,9 +10,9 @@ MSc Accounting (Data & Analytics) — Singapore Management University<br>
 BSc Computer Science, First Class Honours (ML & AI) — University of London
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1000&color=39D353&width=720&height=40&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1000&color=1A7F37&width=720&height=40&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3400&pause=1000&color=1A7F37&width=720&height=40&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" alt="ai qa engineer · data analytics · prompt engineering · building efficiency with ai · the human-in-the-loop · growth is never finite" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=1000&color=39D353&width=560&height=34&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=1000&color=1A7F37&width=560&height=34&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=1000&color=1A7F37&width=560&height=34&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" alt="ai qa engineer · data analytics · prompt engineering · building efficiency with ai · the human-in-the-loop · growth is never finite" />
 </picture>
 
 <p>
@@ -16,6 +20,8 @@ BSc Computer Science, First Class Honours (ML & AI) — University of London
   &nbsp;
   <a href="mailto:sbgkathryn@gmail.com"><img height="28" src="https://cdn.simpleicons.org/gmail" alt="Email" /></a>
 </p>
+
+<br clear="right" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekumonokat/nekumonokat/main/assets/terminal-card-dark.svg" />
@@ -58,3 +64,4 @@ Deep-learning experiments working through dropout and batch normalisation agains
     <img src="https://raw.githubusercontent.com/nekumonokat/nekumonokat/output/github-snake.svg" alt="A snake eating my contribution graph" />
   </picture>
 </div>
+
