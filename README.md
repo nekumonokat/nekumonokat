@@ -6,8 +6,8 @@
 
 ### Kathryn Chan · Singapore
 
-MSc Accounting (Data & Analytics) — Singapore Management University<br>
-BSc Computer Science, First Class Honours (ML & AI) — University of London
+MSc Accounting (Data & Analytics) - Singapore Management University<br>
+BSc Computer Science, First Class Honours (ML & AI) - University of London
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=1000&color=39D353&width=560&height=34&lines=ai+qa+engineer+%C2%B7+data+analytics+%C2%B7+prompt+engineering;building+efficiency+with+ai+%C2%B7+the+human-in-the-loop;growth+is+never+finite" />
@@ -31,7 +31,7 @@ BSc Computer Science, First Class Honours (ML & AI) — University of London
 
 ```console
 $ cat now.txt
-🧪  ai qa engineer — tuning the ai skills my qa and ux teams work with
+🧪  ai qa engineer - tuning the ai skills my qa and ux teams work with
 🤖  building with claude: automations, agent workflows, and this page
 🎯  next: projects of my own, past the coursework below
 📫  linkedin.com/in/kathryn-chan-hui · sbgkathryn@gmail.com
